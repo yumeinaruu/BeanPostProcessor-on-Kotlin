@@ -1,4 +1,4 @@
-package git
+package by.yumeinaruu.git
 
 interface GitHelper {
 

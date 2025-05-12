@@ -1,4 +1,4 @@
-package announcer
+package by.yumeinaruu.announcer
 
 interface Announcer {
 
