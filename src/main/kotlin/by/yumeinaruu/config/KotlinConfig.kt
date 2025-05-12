@@ -22,4 +22,8 @@ class KotlinConfig(
             classes.first()
         } as Class<out T>
     }
+
+    override fun getScannerFromOutside(): Reflections {
+        return scanner
+    }
 }
